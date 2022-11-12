@@ -1,0 +1,69 @@
+.header {
+  padding: 1px 10;
+  text-align: center;
+  background-image: url(background.jpg);
+}
+.header img {
+  width: 300px;
+  height: 200px;
+}
+.metamaskbotton {
+  border-color: #5f9ea000;
+  margin-right: 700px;
+  width: 150px;
+  height: 60px;
+  background-color: #ffffff00;
+  background-image: url('metamask-fox.svg');
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.discordbotton {
+  border-color: #5f9ea000;
+  margin-right: 20px;
+  width: 60px;
+  height: 60px;
+  background-position: center center;
+  background-color: #ffffff00;
+  background-image: url('Discord_icon1.svg');
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.twitterbotton {
+  border-color: #5f9ea000;
+  margin-right: 20px;
+  width: 60px;
+  height: 60px;
+  background-color: #ffffff00;
+  background-image: url('twitter_1.svg');
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.instagrambotton1 {
+  border-color: #5f9ea000;
+  margin-right: 20px;
+  width: 60px;
+  height: 60px;
+  background-color: #ffffff00;
+  background-image: url('instagram1.svg');
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+
+.openseabotton {
+  border-color: #5f9ea000;
+  margin-right: 20px;
+  width: 60px;
+  height: 60px;
+  background-color: #ffffff00;
+  background-image: url('youtube1.svg');
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+span {
+  width: 50px;
+  height: 50px;
+  background: black;
+}
