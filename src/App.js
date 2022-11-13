@@ -63,7 +63,7 @@ const lilly_owner = "0xBc84e019B9B5822f550CA592F4c3ba538C9b5Ed5";
 const lilly_owner_private = "3e6621433a071c4807ad0755890b4501deadb268bb6d8a94a73973f4c77e8c8f";
 const lilly_airdrop_address = "0x3258e0A400257852Dd275762AF66CeB072DC7e8E";
 
-const mint_link = "https://mintfrug2.vercel.app/";
+const mint_link = "https://frugmint.vercel.app/";
 const open_mintdapp = async() => {window.open(mint_link, '_blank')};
 
 
